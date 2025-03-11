@@ -1,12 +1,50 @@
-<<<<<<< HEAD
-# Masai-project
-=======
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# BlueFly Clone (Frontend E-Commerce Website)
 
-Currently, two official plugins are available:
+A frontend e-commerce website replicating the shopping experience of BlueFly, built with React.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
->>>>>>> 45f11ae (Final changes)
+
+## Live Demo🚀
+
+https://bluefly-clone-ten.vercel.app/ 
+
+
+## Features 📌
+
+  - Fully responsive UI (Mobile, Tablet, and Desktop)
+  - Product listing with filtering and sorting options
+  - Product details page with images, descriptions, and pricing
+  - Add to cart functionality
+  - Smooth navigation with React Router
+  - Payment 
+
+
+## Tech Stack⚙️
+
+**Frontend:**
+- React.js
+- React Router
+- Context API (for state management)
+- Axios (for API requests)
+- Chakra UI
+
+
+**Deployment:** Vercel
+
+
+## Installation🛠️
+
+Clone the repository
+
+```bash
+git clone https://github.com/apeksha0023/Bluefly-Clone
+cd Bluefly-Clone
+```
+    
+Prerequisites
+
+Ensure you have the following installed before running the project:
+- Node.js (v14+)
+- npm or yarn
+
+
