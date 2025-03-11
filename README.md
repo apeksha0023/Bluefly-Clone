@@ -53,9 +53,7 @@ Ensure you have the following installed before running the project:
 ![Screenshot 2025-03-11 105937](https://github.com/user-attachments/assets/d8de194f-224f-4d1c-b3b0-bdddf995e2c4)
 ![Screenshot 2025-03-11 105957](https://github.com/user-attachments/assets/36132a3a-41eb-4daf-86f3-6baab2520111)
 ![Screenshot 2025-03-11 110009](https://github.com/user-attachments/assets/bcecf1d6-dc90-43d1-9ac0-ec6e6ee7a234)
-![Screenshot 2025-03-11 110115](https://github.com/user-attachments/assets/e182e8ea-a227-49c9-9021-9abd397b4f00)
-![Screenshot 2025-03-11 113419](https://github.com/user-attachments/assets/429ae0c4-7416-4c35-9204-a7c6fa2c4178)
-![Screenshot 2025-03-11 113252](https://github.com/user-attachments/assets/2ec8bc4d-ae4f-4dec-a145-190f6c30c843)
-
-
+![Screenshot 2025-03-11 113712](https://github.com/user-attachments/assets/c9acdd4c-2adf-4af4-babb-1ce23af79539)
+![Screenshot 2025-03-11 113828](https://github.com/user-attachments/assets/8287647e-650a-4103-83db-d80c1a488fee)
+![Screenshot 2025-03-11 113852](https://github.com/user-attachments/assets/111639b2-8cef-494f-b216-01a43efe8801)
 
