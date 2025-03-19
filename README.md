@@ -7,7 +7,7 @@ A frontend e-commerce website replicating the shopping experience of BlueFly, bu
 ## Live Demo🚀
 
 https://bluefly-clone-ten.vercel.app/ 
-
+<a href="https://bluefly-clone-ten.vercel.app/" style="color: rgb(211, 28, 255);">Live Demo</a>
 
 ## Features 📌
 
