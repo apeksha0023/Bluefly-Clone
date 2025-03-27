@@ -37,8 +37,9 @@ A frontend e-commerce website replicating the shopping experience of BlueFly, bu
 Clone the repository
 
 ```bash
-git clone https://github.com/apeksha0023/Bluefly-Clone
-cd Bluefly-Clone
+git clone https://github.com/your-username/your-repository.git
+cd your-repository
+
 ```
     
 Prerequisites
